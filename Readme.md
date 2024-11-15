@@ -1,7 +1,7 @@
 # Badge Assembly Video
 
 Review the 2024 Hydra Badge Assembly Video Here  
-[https://www.youtube.com/watch?v=xDVRaMgNc40](https://www.youtube.com/watch?v=xDVRaMgNc40)
+[![BSides Jacksonville Hydra Badge Assembly](https://img.youtube.com/vi/xDVRaMgNc40/0.jpg)](https://www.youtube.com/watch?v=xDVRaMgNc40)  
 
 # Circuit 1 \- Assembly Instructions
 
